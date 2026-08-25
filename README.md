@@ -5,4 +5,4 @@
 
 ## Visualização do Site
 
-![Print da Tela do Site](Public/eu.png)
+![Print da Tela do Site](Public/image.png)
